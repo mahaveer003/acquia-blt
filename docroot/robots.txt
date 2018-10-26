@@ -15,7 +15,7 @@
 
 User-agent: /
 # CSS, JS, Images
-Allow: /core/*.css$
+Allow: core/*.css$
 Allow: /core/*.css?
 Allow: /core/*.js$
 Allow: /core/*.js?
