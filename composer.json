@@ -6,6 +6,7 @@
     "prefer-stable": true,
     "require": {
         "acquia/blt": "^9.2.0",
+        "drupal/dblog_filter": "^2.0",
         "drupal/user_default_page": "^2.0"
     },
     "require-dev": {
