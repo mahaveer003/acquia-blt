@@ -13,9 +13,9 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 
-User-agent: *
+User-agent: /
 # CSS, JS, Images
-Allow: /core/*.css$
+Allow: core/*.css$
 Allow: /core/*.css?
 Allow: /core/*.js$
 Allow: /core/*.js?
